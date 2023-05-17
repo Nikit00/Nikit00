@@ -1,8 +1,9 @@
 ## Olá, Eu sou o Henrique Rosa 👋
 
-- 🌱 Cursando <b>Sistemas de Informação</b>
-- 🌱 Estudando <b>front-end</b> e <b>back-end</b>
-- 💬 Contate-me no email: henrique.rosa@unifesspa.edu.br
+- 🌱 Formando em <b>Sistemas de Informação</b>
+- 📚 Universidade Federal do Sul e Suldeste do Pará
+- 💻 Developer <b>Full Stack</b> JR
+- 💬 Contato email: henrique.rosa@unifesspa.edu.br
 - ⚡ Acredite em <b>VOCE</b>
 
 <div align="center">
