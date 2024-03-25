@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Henrique Rosa 👋
 
-- 🌱 Formando em <b>Sistemas de Informação</b>
+- 🌱 Formano em <b>Sistemas de Informação</b>
 - 📚 Universidade Federal do Sul e Suldeste do Pará
 - 💻 Developer <b>Full Stack</b> JR
 - 💬 Contato email: henrique.rosa@unifesspa.edu.br
